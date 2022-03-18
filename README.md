@@ -1,19 +1,19 @@
 <p align="center">
-  <a href="https://github.com/viniciusgugelmin/cineflex-de">
+  <a href="https://github.com/viniciusgugelmin/trackit-de">
     <img src="info/readme.png" alt="readme-logo" width="80" height="80">
   </a>
 
-<h3 align="center">cineflex-de</h3>
+<h3 align="center">trackit-de</h3>
 
   <p align="center">
-    Cineflex React
+    Trackit React
     <br />
-    <a href="https://github.com/viniciusgugelmin/cineflex-de"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/viniciusgugelmin/trackit-de"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/viniciusgugelmin/cineflex-de/issues">Report Bug</a>
+    <a href="https://github.com/viniciusgugelmin/trackit-de/issues">Report Bug</a>
     ·
-    <a href="https://github.com/viniciusgugelmin/cineflex-de/issues">Request Feature</a>
+    <a href="https://github.com/viniciusgugelmin/trackit-de/issues">Request Feature</a>
   </p>
 </p>
 
@@ -31,11 +31,11 @@
 
 ## About The Project
 
-Driven project - cineflex
+Driven project - trackit
 
 ## Roadmap
 
-See the [open issues](https://github.com/viniciusgugelmin/cineflex-de/issues) for a list of proposed features (and known
+See the [open issues](https://github.com/viniciusgugelmin/trackit-de/issues) for a list of proposed features (and known
 issues).
 
 ## Contributing
@@ -52,4 +52,4 @@ Any contributions you make are **greatly appreciated**.
 
 Vinícius Kruchelski Gugelmin - vinigugelmin@gmail.com
 
-Project Link: [https://github.com/viniciusgugelmin/cineflex-de](https://github.com/viniciusgugelmin/cineflex-de)
+Project Link: [https://github.com/viniciusgugelmin/trackit-de](https://github.com/viniciusgugelmin/trackit-de)
