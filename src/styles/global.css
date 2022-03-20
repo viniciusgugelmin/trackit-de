@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+html, body {
+  font-family: 'Lexend Deca', Arial, Helvetica, sans-serif;
+}
+
+.root {
+  display: block !important;
+  max-width: 375px;
+  margin: 0 auto;
+  animation: fadeIn 0.75s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
