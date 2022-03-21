@@ -10,7 +10,7 @@ export const Input = ({ value, setValue, type, placeholder, name, required = fal
         name={name}
         placeholder={placeholder}
         value={value}
-        onChange={(e) => setValue(e.target.value)}
+        onChange={(event) => setValue(event.target.value)}
         required={required}
       />
     </Label>

@@ -1,6 +1,8 @@
 import styled from "styled-components";
 
 export const ButtonEl = styled.button`
+  display: block;
+  margin: auto;
   height: 45px;
   background: #52b6ff;
   border-radius: 4.63636px;
@@ -12,4 +14,11 @@ export const ButtonEl = styled.button`
   text-align: center;
   color: #ffffff;
   border: 0;
+  cursor: pointer;
+  transition: background 0.2s ease-in-out;
+
+  &:disabled {
+    background: #d3d3d3;
+    cursor: not-allowed;
+  }
 `;
